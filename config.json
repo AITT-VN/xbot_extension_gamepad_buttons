@@ -1,0 +1,13 @@
+{
+    "name": "GamePad",
+    "description": "Mục mở rộng của xbot sử dụng cho module GamePad",
+    "libs": [
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.png"
+}
