@@ -1,7 +1,7 @@
 Blockly.Blocks["get_value_button"] = {
   init: function () {
     this.jsonInit({
-      colour: "#5CA4FB",
+      colour: "#00A06B",
       tooltip: "",
       message0: "nút nhấn %1 trên gamepad được nhấn",
       args0: [
